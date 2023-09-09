@@ -1,5 +1,6 @@
 //Maya 2024 Project Definition
 
+<<<<<<< HEAD
 workspace -fr "fluidCache" "cache/nCache/fluid";
 workspace -fr "JT_ATF" "data";
 workspace -fr "images" "images";
@@ -71,3 +72,7 @@ workspace -fr "WIRE_ATF" "data";
 workspace -fr "templates" "assets";
 workspace -fr "OBJexport" "data";
 workspace -fr "furAttrMap" "renderData/fur/furAttrMap";
+=======
+workspace -fr "particles" "particles";
+workspace -fr "templates" "assets";
+>>>>>>> Challenge01b

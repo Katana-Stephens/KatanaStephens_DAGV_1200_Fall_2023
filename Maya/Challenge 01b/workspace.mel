@@ -1,8 +1,13 @@
 //Maya 2024 Project Definition
 
 workspace -fr "fluidCache" "cache/nCache/fluid";
+<<<<<<< HEAD
 workspace -fr "JT_ATF" "data";
 workspace -fr "images" "images";
+=======
+workspace -fr "images" "images";
+workspace -fr "JT_ATF" "data";
+>>>>>>> Challenge01b
 workspace -fr "offlineEdit" "scenes/edits";
 workspace -fr "STEP_ATF Export" "data";
 workspace -fr "furShadowMap" "renderData/fur/furShadowMap";
@@ -11,8 +16,13 @@ workspace -fr "scripts" "scripts";
 workspace -fr "DAE_FBX" "data";
 workspace -fr "shaders" "renderData/shaders";
 workspace -fr "NX_ATF" "data";
+<<<<<<< HEAD
 workspace -fr "furFiles" "renderData/fur/furFiles";
 workspace -fr "CATIAV5_ATF Export" "data";
+=======
+workspace -fr "CATIAV5_ATF Export" "data";
+workspace -fr "furFiles" "renderData/fur/furFiles";
+>>>>>>> Challenge01b
 workspace -fr "OBJ" "data";
 workspace -fr "PARASOLID_ATF Export" "data";
 workspace -fr "FBX export" "data";
@@ -39,9 +49,15 @@ workspace -fr "CATIAV4_ATF" "data";
 workspace -fr "fileCache" "cache/nCache";
 workspace -fr "eps" "data";
 workspace -fr "3dPaintTextures" "sourceimages/3dPaintTextures";
+<<<<<<< HEAD
 workspace -fr "mel" "scripts";
 workspace -fr "translatorData" "data";
 workspace -fr "DXF_ATF Export" "data";
+=======
+workspace -fr "DXF_ATF Export" "data";
+workspace -fr "translatorData" "data";
+workspace -fr "mel" "scripts";
+>>>>>>> Challenge01b
 workspace -fr "particles" "cache/particles";
 workspace -fr "DXF_ATF" "data";
 workspace -fr "scene" "scenes";
